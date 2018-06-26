@@ -1,0 +1,15 @@
+{
+  "name": "curatenextcodingactivity",
+  "version": "1.0.0",
+  "description": "SPA to curate a coding challenge if you cant think of one",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "singh102"
+  },
+  "author": "Karthik Singh",
+  "license": "ISC"
+}
